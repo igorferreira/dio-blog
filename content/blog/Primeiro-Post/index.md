@@ -30,4 +30,4 @@ npm run build
 
 # Log das tentativas
 
-1. Deu erro no deploy
+1. Ajustado nome do bucket
