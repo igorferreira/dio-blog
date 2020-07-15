@@ -27,3 +27,7 @@ gatsby develop
 # gerar versao final
 npm run build
 ```
+
+# Log das tentativas
+
+1. Deu erro no deploy
