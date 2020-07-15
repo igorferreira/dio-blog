@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Dio Blog - Laboratorio`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Igor Ferreira`,
+      summary: `Desenvolvedor inquieto!`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `igorferreirajava`,
     },
   },
   plugins: [
