@@ -28,6 +28,9 @@ gatsby develop
 npm run build
 ```
 
-# Log das tentativas
+## Projetos equivalentes em outros framekworks
 
-1. Ajustado nome do bucket
+ - Em React: https://www.gatsbyjs.org
+ - Em Angular: https://scully.io
+ - Em Vue: https://gridsome.org
+
